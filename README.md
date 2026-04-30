@@ -134,7 +134,7 @@ Aşağıdaki senaryolar üzerinde defalarca çalıştırıldı:
 
 Bu araç **canlı bir proje.** Eksiklik gördüğünüzde, yeni özellik istediğinizde, bug yakaladığınızda:
 
-- 💼 **LinkedIn:** [Alim Çeler](https://www.linkedin.com/in/alim-celer/)
+- 💼 **LinkedIn:** [Alim Çeler](https://www.linkedin.com/in/alim%C3%A7eler/)
 - 🐙 **GitHub Issues:** Repo'da Issues sekmesinden bildir
 - 🇹🇷 **Konum:** Denizli, Türkiye
 
